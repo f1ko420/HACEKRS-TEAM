@@ -111,7 +111,7 @@ hr{
     background:url(img/back.jpeg) center fixed;
     background-size:100% 100%;
 }
-.btt{ /* back to top dugme */
+.btt{ 
     color:white;
     background-color:red;
     padding:10px 25px;
